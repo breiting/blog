@@ -1,0 +1,34 @@
+---
+title: "The Go language"
+date: 2018-08-13
+tags: ['go', 'golang','primer']
+---
+
+I recently discovered the "new" programming language [Go](https://golang.org) and really got my attention. Go was
+announced in November 2009 and the first version (v1.0) was released in March 2012. Go has strong influence from the C
+programming language but brings some cool features:
+
+* Statically typed and scalable to large systems (like Java or C++)
+* Productive and readable, without excessive boilerplate
+* Not requiring integrated development environments (nice VIM integration :-)
+* Supporting networking and multiprocessing
+
+Mandatory for every programming language, there is my first Go program (`main.go`):
+
+{{< highlight go >}}
+package main
+
+import "fmt"
+
+func main() {
+    fmt.Println("Hi Gopher!")
+}
+{{</ highlight >}}
+
+You can easily run your first Go program from your terminal:
+
+```sh
+$ go run main.go
+```
+
+Start now and download Go on your [machine](https://golang.org/dl/).
