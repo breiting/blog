@@ -32,3 +32,6 @@ ExecStart=/usr/bin/dockerd -H fd:// -H tcp://0.0.0.0:2375
 
 Make sure to reload the daemon `systemctl daemon-reload` and restart the docker service `systemctl restart docker`. This
 should fix the problem.
+
+This information can also be found
+[here](https://success.docker.com/article/how-do-i-enable-the-remote-api-for-dockerd).
