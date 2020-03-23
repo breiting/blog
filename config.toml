@@ -1,7 +1,7 @@
 baseURL            = "https://blog.geistreich.io"
 languageCode       = "en-us"
 title              = "geistreich blog"
-paginate           = 7
+paginate           = 13
 theme              = "m10c"
 pygmentsStyle      = "monokai"                         # https://help.farbox.com/pygments.html
 pygmentsCodefences = true

@@ -47,6 +47,19 @@ pre {
   overflow: auto;
 }
 
+table {
+  margin: 2em 0 2em 0;
+  width: 100%;
+  border: 1px solid #e5e5e5;
+  border-collapse: collapse;
+}
+
+td, th {
+        padding: .25rem .5rem;
+        border: 1px solid #e5e5e5;
+        text-align: center;
+}
+
 ::selection {
   background: rgba($light-color, .25);
 }
