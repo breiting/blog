@@ -1,6 +1,6 @@
-baseURL            = "https://breiting.github.io"
+baseURL            = "https://blog.geistreich.io"
 languageCode       = "en-us"
-title              = "@breiting"
+title              = "geistreich blog"
 paginate           = 7
 theme              = "m10c"
 pygmentsStyle      = "monokai"                         # https://help.farbox.com/pygments.html
@@ -10,7 +10,7 @@ enforce_ssl        = true
 
 [params]
   author = "Bernhard Reitinger"
-  description = "software minimalist"
+  description = "collects interesting topics about (suckless) software"
 
   [[params.social]]
     name = "github"
@@ -18,3 +18,6 @@ enforce_ssl        = true
   [[params.social]]
     name = "twitter"
     url = "https://twitter.com/rebreiting"
+  [[params.social]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/bernhard-reitinger-8a4a0b33"
