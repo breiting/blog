@@ -1,6 +1,7 @@
 ---
 title: "Enable tcp access for docker"
 date: 2019-05-21
+type: post
 tags: ['docker']
 ---
 

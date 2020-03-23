@@ -1,6 +1,7 @@
 ---
 title: "Working with remote machines"
 date: 2018-08-17
+type: post
 tags: ['shell', 'zsh','functions']
 ---
 

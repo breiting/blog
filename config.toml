@@ -3,13 +3,14 @@ languageCode       = "en-us"
 title              = "geistreich blog"
 paginate           = 13
 theme              = "m10c"
-pygmentsStyle      = "monokai"                         # https://help.farbox.com/pygments.html
+pygmentsStyle      = "monokai"
 pygmentsCodefences = true
 enforce_ssl        = true
-# googleAnalytics  = ""                                # Enable Google Analytics https://gohugo.io/templates/internal/#google-analytics
+# googleAnalytics  = ""
 
 [params]
   author = "Bernhard Reitinger"
+  headline = "Bernhard's Tech Notes"
   description = "collects interesting topics about (suckless) software"
 
   [[params.social]]

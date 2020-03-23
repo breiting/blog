@@ -1,6 +1,6 @@
 +++
 title =  "About me"
-date = "2018-08-13"
+date = 2019-03-23
 +++
 
 Software development is my passion. I bought my first PC equipped with a

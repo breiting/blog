@@ -1,6 +1,7 @@
 ---
 title:  "Pimp your code"
 date:   2018-08-13
+type: post
 tags: ['coding', 'style','editor']
 ---
 
