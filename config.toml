@@ -6,7 +6,7 @@ theme              = "m10c"
 pygmentsStyle      = "monokai"
 pygmentsCodefences = true
 enforce_ssl        = true
-# googleAnalytics  = ""
+googleAnalytics  = "UA-161720451-1"
 
 [params]
   author = "Bernhard Reitinger"
