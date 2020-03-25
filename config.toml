@@ -10,6 +10,7 @@ googleAnalytics  = "UA-161720451-1"
 
 [params]
   author = "Bernhard Reitinger"
+  shortname = "@breiting"
   headline = "Bernhard's Tech Notes"
   description = "collects interesting topics about (suckless) software"
 
