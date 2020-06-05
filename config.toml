@@ -1,6 +1,6 @@
-baseURL            = "https://blog.geistreich.io"
+baseURL            = "https://blog.codepurist.com"
 languageCode       = "en-us"
-title              = "geistreich blog"
+title              = "The CodePurist Blog"
 paginate           = 13
 theme              = "m10c"
 pygmentsStyle      = "monokai"
@@ -9,17 +9,17 @@ enforce_ssl        = true
 googleAnalytics  = "UA-161720451-1"
 
 [params]
-  author = "Bernhard Reitinger"
-  shortname = "@breiting"
-  headline = "Bernhard's Tech Notes"
-  description = "collects interesting topics about (suckless) software"
+  author = "The CodePurist"
+  shortname = "The CodePurist"
+  headline = "News from the CodePurist"
+  description = "collects interesting topics about software and coding"
 
   [[params.social]]
     name = "github"
     url = "https://github.com/breiting"
   [[params.social]]
     name = "twitter"
-    url = "https://twitter.com/rebreiting"
+    url = "https://twitter.com/codepurist"
   [[params.social]]
     name = "linkedin"
     url = "https://www.linkedin.com/in/bernhard-reitinger-8a4a0b33"
