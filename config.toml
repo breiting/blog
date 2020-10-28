@@ -12,7 +12,7 @@ googleAnalytics  = "UA-161720451-1"
   author = "The CodePurist"
   shortname = "The CodePurist"
   headline = "News from the CodePurist"
-  description = "collects interesting topics about software and coding"
+  description = "interesting topics about software and coding"
 
   [[params.social]]
     name = "github"
