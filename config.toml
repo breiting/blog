@@ -6,7 +6,6 @@ theme              = "m10c"
 pygmentsStyle      = "monokai"
 pygmentsCodefences = true
 enforce_ssl        = true
-googleAnalytics  = "UA-161720451-1"
 
 [params]
   author = "The CodePurist"
